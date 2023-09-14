@@ -22,7 +22,7 @@ https://brassy-door-6e8.notion.site/e8edf657a14e45da83904b9672f84a2d?v=7a344f955
 - 이민호(PL)
 - 김유주(BA)
 - 김은지(BA)
-- 나성민(DA)
+- 나성민(DA) https://github.com/ekslffh/Airport-80
 - 배소현(UA)
 - 박은수(TA)
 - 이현민(AA)
